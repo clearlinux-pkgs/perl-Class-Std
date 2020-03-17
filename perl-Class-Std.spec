@@ -4,7 +4,7 @@
 #
 Name     : perl-Class-Std
 Version  : 0.013
-Release  : 15
+Release  : 16
 URL      : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Class-Std-0.013.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Class-Std-0.013.tar.gz
 Summary  : Support for creating standard "inside-out" classes
@@ -83,4 +83,4 @@ find %{buildroot} -type f -name '*.bs' -empty -exec rm -f {} ';'
 
 %files perl
 %defattr(-,root,root,-)
-/usr/lib/perl5/vendor_perl/5.30.1/Class/Std.pm
+/usr/lib/perl5/vendor_perl/5.30.2/Class/Std.pm
