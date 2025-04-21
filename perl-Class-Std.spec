@@ -7,7 +7,7 @@
 #
 Name     : perl-Class-Std
 Version  : 0.013
-Release  : 33
+Release  : 34
 URL      : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Class-Std-0.013.tar.gz
 Source0  : https://cpan.metacpan.org/authors/id/C/CH/CHORNY/Class-Std-0.013.tar.gz
 Summary  : Support for creating standard "inside-out" classes
